@@ -39,7 +39,7 @@
 * integration with data analysis and machine learning
 * strong community support
 * rapid development capabilities
-##### These advantages make Python a compelling choice for building database-driven applications across a wide range of domains and industries.
+These advantages make Python a compelling choice for building database-driven applications across a wide range of domains and industries.
 ##### SQLite is a lightweight, self-contained SQL database engine that requires minimal setup and configuration. It is often used for smaller-scale projects or applications where simplicity and ease of use are prioritised.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -49,4 +49,19 @@
 
 #### Python ver 3.12
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To run locally you need to prepare your computer and install some softwares.
+
+### Installation
+
+_List of required softwares to install and their address_
+
+1. Install a free copy of Visual Studio Code from: [https://go.microsoft.com/fwlink/?LinkID=534107](https://go.microsoft.com/fwlink/?LinkID=534107)
+2. Install a free copy of DB Browser for SQLite from: [https://sqlitebrowser.org/dl/](https://sqlitebrowser.org/dl/)
+   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
