@@ -30,5 +30,5 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-###### Functions are the backbone of code, empowering you to tackle complex tasks with elegance and precision.
+* Functions are the backbone of code, empowering you to tackle complex tasks with elegance and precision.
 * It's a named block of code that can be invoked (called) multiple times throughout a program, allowing for code reuse, modularity, and abstraction.
