@@ -70,6 +70,6 @@ _List of required softwares to install and their address_
 
 You can call the database_manip.py file in Python and run DB Browser application to see the results.
 
-_For better understanding of consequence of each command, you'ld better run the .py file by VS Code in debugging mode._
+_You'd better run the .py file by VS Code in debugging mode, to a better understanding of the consequence of each command._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
