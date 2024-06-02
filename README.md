@@ -13,7 +13,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -64,4 +63,12 @@ _List of required softwares to install and their address_
 1. Install a free copy of Visual Studio Code from: [https://go.microsoft.com/fwlink/?LinkID=534107](https://go.microsoft.com/fwlink/?LinkID=534107)
 2. Install a free copy of DB Browser for SQLite from: [https://sqlitebrowser.org/dl/](https://sqlitebrowser.org/dl/)
    
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+You can call the database_manip.py file in Python and run DB Browser application to see the results.
+_For better understanding of consequence of each command, you'ld better run the .py file by VS Code in debugging mode._
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
