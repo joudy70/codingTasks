@@ -30,8 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-##### Recall the importance of connecting Python with SQL for data manipulation, analysis, and the basic concepts of database connectivity in Python
-##### Implement Python scripts to interact with SQL databases. Execute SQL queries from Python and retrieve data.
+##### Recall the importance of connecting Python with SQL for data manipulation, analysis, and the basic concepts of database connectivity in Python. Implement Python scripts to interact with SQL databases. Execute SQL queries from Python and retrieve data.
 
 ### Using Python for database connectivity offers numerous benefits, including:
 * ease of use
@@ -40,7 +39,6 @@
 * integration with data analysis and machine learning
 * strong community support
 * rapid development capabilities
-  
 ##### These advantages make Python a compelling choice for building database-driven applications across a wide range of domains and industries.
 ##### SQLite is a lightweight, self-contained SQL database engine that requires minimal setup and configuration. It is often used for smaller-scale projects or applications where simplicity and ease of use are prioritised.
 
