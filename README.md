@@ -46,3 +46,7 @@
 
 <!-- BUILD WITH -->
 ## Build With
+
+#### Python ver 3.12
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
