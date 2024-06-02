@@ -30,8 +30,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-* Recall the importance of connecting Python with SQL for data manipulation, analysis, and the basic concepts of database connectivity in Python
-* Implement Python scripts to interact with SQL databases. Execute SQL queries from Python and retrieve data.
+#### Recall the importance of connecting Python with SQL for data manipulation, analysis, and the basic concepts of database connectivity in Python
+##### Implement Python scripts to interact with SQL databases. Execute SQL queries from Python and retrieve data.
 
 ### Using Python for database connectivity offers numerous benefits, including:
 * ease of use,
