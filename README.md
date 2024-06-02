@@ -1,7 +1,4 @@
 # Programming with User-defined Functions
-## Functions are the backbone of code, empowering you to tackle complex tasks with elegance and precision.
-## It's a named block of code that can be invoked (called) multiple times throughout a program, allowing for code reuse, modularity, and abstraction.
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -28,3 +25,10 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+###### Functions are the backbone of code, empowering you to tackle complex tasks with elegance and precision.
+###### It's a named block of code that can be invoked (called) multiple times throughout a program, allowing for code reuse, modularity, and abstraction.
