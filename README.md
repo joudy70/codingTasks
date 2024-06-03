@@ -67,8 +67,10 @@ _List of required softwares to install and their address_
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-You can call the database_manip.py file in Python and run DB Browser application to see the results.
+Call the database_manip.py file in Python and run DB Browser application to see the results.
 
 _You'd better run the .py file by VS Code in debugging mode, to a better understanding of the consequence of each command._
+
+![Database   Table view](https://github.com/joudy70/codingTasks/assets/164870633/4f850864-44d6-4622-9e9d-3ee6cf6386a5)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
