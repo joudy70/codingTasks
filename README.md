@@ -17,10 +17,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#credits">Credits</a></li>
   </ol>
 </details>
 
@@ -72,5 +69,13 @@ Call the database_manip.py file in Python and run DB Browser application to see 
 _You'd better run the .py file by VS Code in debugging mode, to a better understanding of the consequence of each command._
 
 ![Database   Table view](https://github.com/joudy70/codingTasks/assets/164870633/4f850864-44d6-4622-9e9d-3ee6cf6386a5)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CCREDITS -->
+## Credits
+
+* Ali Joudy (https://github.com/joudy70/codingTasks)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
