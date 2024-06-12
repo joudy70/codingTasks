@@ -1,0 +1,15 @@
+
+{% extends 'base.html' %}
+{% block title %}Bulletin Board Posts{% endblock %}
+{% block content %}
+<h2>Bulletin Board Posts</h2>
+<a href="{% url 'bulletin_board_post_create' %}" class="btn btn-primary mb-3">Create New Post</a>
+<ul class="list-group">
+    {% for post in posts %}
+        <li class="list-group-item">
+            <a href="{% url 'bulletin_board_post_detail' post.pk %}">{{ post.title }}</a>
+            <span class="float-right">{{ post.created_at|date:"M d, Y H:i" }}</span>
+        </li>
+    {% endfor %}
+</ul>
+{% endblock %}

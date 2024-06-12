@@ -1,0 +1,28 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+h1, h2 {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    margin: 10px 0;
+}
+
+
+body {
+    padding-top: 70px;
+}
+.navbar-brand {
+    font-size: 1.5em;
+}
+.container {
+    margin-top: 20px;
+}
